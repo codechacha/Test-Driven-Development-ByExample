@@ -25,8 +25,8 @@
       <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="330">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,8 +37,8 @@
       <file leaf-file-name="Dollar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="e#85#86#0" expanded="true" />
                 <element signature="e#120#121#0" expanded="true" />
@@ -57,6 +57,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Dollar</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -473,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMain.testMultiplication">
+  <component name="RunManager" selected="JUnit.TestMain.testEquality">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -484,6 +489,29 @@
       <option name="PACKAGE_NAME" value="com.tdd" />
       <option name="MAIN_CLASS_NAME" value="com.tdd.TestMain" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestMain.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.TestMain" />
+      <option name="METHOD_NAME" value="testEquality" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -552,9 +580,11 @@
     <list>
       <item itemvalue="JUnit.TestMain.test" />
       <item itemvalue="JUnit.TestMain.testMultiplication" />
+      <item itemvalue="JUnit.TestMain.testEquality" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMain.testEquality" />
         <item itemvalue="JUnit.TestMain.testMultiplication" />
         <item itemvalue="JUnit.TestMain.test" />
       </list>
@@ -585,6 +615,21 @@
     </history-entry>
     <history-entry file="TestMain_testMultiplication - 2019.02.12 at 21h 23m 35s.xml">
       <configuration name="TestMain.testMultiplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMain_testMultiplication - 2019.02.12 at 21h 26m 59s.xml">
+      <configuration name="TestMain.testMultiplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMain_testMultiplication - 2019.02.12 at 21h 29m 23s.xml">
+      <configuration name="TestMain.testMultiplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMain_testEquality - 2019.02.12 at 21h 29m 28s.xml">
+      <configuration name="TestMain.testEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMain_testEquality - 2019.02.12 at 21h 29m 55s.xml">
+      <configuration name="TestMain.testEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMain_testEquality - 2019.02.12 at 21h 30m 49s.xml">
+      <configuration name="TestMain.testEquality" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -657,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="225">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="e#85#86#0" expanded="true" />
             <element signature="e#120#121#0" expanded="true" />
@@ -670,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
