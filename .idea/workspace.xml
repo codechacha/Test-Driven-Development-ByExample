@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64a7b4d0-81ce-4d9b-af50-ed67eb7aef5a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="225">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,16 +34,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dollar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dollar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
                 <element signature="e#85#86#0" expanded="true" />
                 <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -359,6 +360,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/TestMain.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java" />
       </list>
     </option>
   </component>
@@ -581,6 +583,9 @@
     <history-entry file="TestMain_testMultiplication - 2019.02.12 at 20h 53m 37s.xml">
       <configuration name="TestMain.testMultiplication" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestMain_testMultiplication - 2019.02.12 at 21h 23m 35s.xml">
+      <configuration name="TestMain.testMultiplication" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="27" width="1877" height="1053" extended-state="6" />
@@ -650,25 +655,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
